@@ -1,0 +1,16 @@
+#Prompt setup
+PS1='\[\033[01;34m\]$(pwd):\[\033[0m\]$ '
+
+#Variables
+scripts=$dev/scripts
+
+#Aliases
+alias falias='$scripts/falias.sh'
+alias nalias='$scripts/nalias.sh'
+alias ..='cd ..'
+alias ralias='source $dev/bash_setup'
+alias dev='cd $dev' 
+alias addnew='$scripts/gitaddnew.sh'
+alias home='cd $home'
+alias scripts='cd $scripts'
+cd ~

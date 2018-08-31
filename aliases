@@ -1,8 +1,0 @@
-PS1='\[\033[01;34m\]$(pwd):\[\033[0m\]$ '
-alias falias='$dev/falias.sh'
-alias nalias='$dev/nalias.sh'
-alias ..='cd ..'
-alias ralias='source /Users/joeantonetti/developer/aliases'
-alias dev='cd /Users/joeantonetti/developer'
-alias addnew='/Users/joeantonetti/developer/gitaddnew.sh'
-alias home='cd /Users/joeantonetti'
