@@ -13,4 +13,7 @@ alias dev='cd $dev'
 alias addnew='$scripts/gitaddnew.sh'
 alias home='cd $home'
 alias scripts='cd $scripts'
+
+#Final Setup
 cd ~
+[[ $ISSCRIPT != 1 && $TERM != "screen" ]] && exec screen -q

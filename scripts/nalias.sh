@@ -1,3 +1,4 @@
+ISSCRIPT=1
 source ~/.bash_profile
 output="alias "
 output="$output $1="
