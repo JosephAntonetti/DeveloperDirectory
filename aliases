@@ -1,0 +1,6 @@
+alias falias='$dev/falias.sh'
+alias nalias='$dev/nalias.sh'
+alias ..='cd ..'
+alias ralias='source /Users/joeantonetti/developer/aliases'
+alias dev='cd /Users/joeantonetti/developer'
+alias addnew='/Users/joeantonetti/developer/gitaddnew.sh'
