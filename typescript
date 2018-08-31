@@ -31,4 +31,34 @@ usage: grep [-abcDEFGHhIiJLlmnOoqRSsUVvwxZ] [-A num] [-B num] [-C[num]]
 alias addnew='$scripts/gitaddnew.sh'
 [01;34m/Users/joeantonetti/developer/scripts:[0m$ ls
 falias.sh	gitaddnew.sh	nalias.sh
-[01;34m/Users/joeantonetti/developer/scripts:[0m$ 
+[01;34m/Users/joeantonetti/developer/scripts:[0m$ ..
+[01;34m/Users/joeantonetti/developer:[0m$ addnew s[Kauot_[K[K[Kt-[KoA_[K[K_Ac[K[Kscreen
+[master 630f21b] auto_screen
+ Committer: Joe Antonetti <joeantonetti@Joes-MBP.guest.corp.microsoft.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 39 insertions(+)
+ create mode 100644 typescript
+Counting objects: 7, done.
+Delta compression using up to 8 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 1.91 KiB | 1.91 MiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:JosephAntonetti/DeveloperDirectory.git
+   19a62e5..630f21b  master -> master
+[01;34m/Users/joeantonetti/developer:[0m$ ls
+README.md	bash_setup	scripts		tool_settings	typescript
+[01;34m/Users/joeantonetti/developer:[0m$ ls
+README.md	bash_setup	scripts		tool_settings	typescript
+[01;34m/Users/joeantonetti/developer:[0m$ la[K[K

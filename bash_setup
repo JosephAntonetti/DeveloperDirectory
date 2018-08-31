@@ -16,4 +16,4 @@ alias scripts='cd $scripts'
 
 #Final Setup
 cd ~
-[[ $ISSCRIPT != 1 && $TERM != "screen" ]] && exec screen -q
+[[ $ISSCRIPT != 1 && $TERM != "screen" ]] && screen -A -L -q
